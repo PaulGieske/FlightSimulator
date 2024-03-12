@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ThrottleHandle.obj-2912e2d6af440fe49c49bbc5af1f5d2d.mesh"
+
+[deps]
+
+files=[ "res://.import/ThrottleHandle.obj-2912e2d6af440fe49c49bbc5af1f5d2d.mesh" ]
+
+source_file="res://Models/Cockpit/ThrottleHandle.obj"
+dest_files=[ "res://.import/ThrottleHandle.obj-2912e2d6af440fe49c49bbc5af1f5d2d.mesh", "res://.import/ThrottleHandle.obj-2912e2d6af440fe49c49bbc5af1f5d2d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

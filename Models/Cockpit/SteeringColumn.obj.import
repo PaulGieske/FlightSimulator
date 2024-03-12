@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SteeringColumn.obj-ff8cfb6b7f5fab7092c4055b0be6573e.mesh"
+
+[deps]
+
+files=[ "res://.import/SteeringColumn.obj-ff8cfb6b7f5fab7092c4055b0be6573e.mesh" ]
+
+source_file="res://Models/Cockpit/SteeringColumn.obj"
+dest_files=[ "res://.import/SteeringColumn.obj-ff8cfb6b7f5fab7092c4055b0be6573e.mesh", "res://.import/SteeringColumn.obj-ff8cfb6b7f5fab7092c4055b0be6573e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
